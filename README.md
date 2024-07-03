@@ -1,4 +1,4 @@
-# Technical Exercise for Klx/ CACIB
+# Technical Exercise - Aubay
 
 This project aims to run automated tests on the Swag Labs website.
 
